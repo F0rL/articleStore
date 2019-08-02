@@ -29,4 +29,4 @@
 最终得到了CSS属性的值。
 
 ## CSS权重关系图
-![](https://user-gold-cdn.xitu.io/2019/7/24/16c221ca002ff435?w=1275&h=1650&f=jpeg&s=1861849)
+![](https://ws1.sinaimg.cn/large/90864b23gy1g1xg79txuyj20zf19u45b.jpg)
